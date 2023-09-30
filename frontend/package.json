@@ -1,0 +1,14 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Text Summarizer Frontend",
+  "main": "app.js",
+  "scripts": {
+
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
+
